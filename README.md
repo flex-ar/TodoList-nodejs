@@ -1,0 +1,1 @@
+install node_modueles with `npm install` then run the app with `node app`
