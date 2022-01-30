@@ -1,5 +1,3 @@
-require('colors');
-
 const Tarea = require('./models/tarea');
 const OPTIONS = require('./helpers/options');
 const { leerDB } = require('./helpers/interaccionDB');
